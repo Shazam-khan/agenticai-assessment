@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+data/*.db
+data/chroma/
+data/notifications.log
+data/eval_output.txt
+data/eval_70b_output.txt
+*.egg-info/
+.DS_Store
